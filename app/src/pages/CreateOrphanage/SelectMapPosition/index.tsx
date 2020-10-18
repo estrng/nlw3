@@ -7,7 +7,7 @@ import MapView, { MapEvent, Marker } from "react-native-maps";
 
 import styles from "./styles";
 
-import mapMarkerImg from "../../images/happyMarker.png";
+import mapMarkerImg from "../../../images/happyMarker.png";
 
 export default function SelectMapPosition() {
   const navigation = useNavigation();

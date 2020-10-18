@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Dimensions, StyleSheet, Text, View } from "react-native";
+import { Text, View } from "react-native";
 import MapView, { Marker, Callout, PROVIDER_GOOGLE } from "react-native-maps";
 import { RectButton } from "react-native-gesture-handler";
 import { Feather } from "@expo/vector-icons";
